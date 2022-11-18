@@ -1,6 +1,6 @@
-title: RunDocs
+title: 嵌入式Linux应用开发完全手册
 lang: en
-description: Extends the continuous integration documentation capabilities of GitHub pages for everyone!
+description: 嵌入式Linux应用开发完全手册学习笔记
 
 remote_theme: rundocs/jekyll-rtd-theme
 
